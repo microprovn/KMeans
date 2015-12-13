@@ -1,0 +1,7 @@
+k = 3
+Distance = euclidean
+Centroid 0 = 6.854 3.077 5.715 2.054
+Centroid 1 = 5.885 2.742 4.377 1.427
+Centroid 2 = 5.006 3.428 1.462 0.246
+mean intercluster distance = 3.3751281738400416
+mean intracluster distance = 0.9202154369417701
